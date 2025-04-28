@@ -1,1 +1,1 @@
-# python-tutorial
+# A simple, entry level python tutorial
